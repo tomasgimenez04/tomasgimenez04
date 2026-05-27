@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Tomás Giménez 👋</h1>
-<h3 align="center">Desarrollador Full-Stack Jr. · Buenos Aires, Argentina</h3>
+<h3 align="center">`Técnico en Programación. · Buenos Aires, Argentina</h3>
 
 <br/>
 
@@ -19,9 +19,11 @@
 
 Me apasiona construir soluciones reales con código, desde la interfaz hasta la base de datos.
 
-- 🛠️ Construí software de gestión para un negocio local (flujo de caja, stock, movimientos)
+- 🌐 Desarrollo de sitios web — HTML, CSS, JavaScript y PHP
+- 🗄️ Consultas y gestión de bases de datos relacionales — SQL y MySQL
+- 📊 Análisis de datos — Python, Pandas, Matplotlib y Seaborn
 - 🌍 Inglés avanzado — **Cambridge First Certificate (B2)**
-- 📬 Abierto a oportunidades en IT — presencial GBA/CABA o remoto
+- 📬 Abierto a oportunidades en IT — presencial o remoto
 
 ---
 
