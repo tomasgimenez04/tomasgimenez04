@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Tomás Giménez 👋</h1>
-<h3 align="center">`Técnico en Programación. · Buenos Aires, Argentina</h3>
+<h3 align="center">Técnico en Programación. · Buenos Aires, Argentina</h3>
 
 <br/>
 
